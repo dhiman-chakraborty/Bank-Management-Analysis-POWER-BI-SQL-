@@ -1,5 +1,3 @@
----
-
 ## 🏦 Bank Management Analytics System (PostgreSQL + Power BI)
 
 A complete end-to-end **Bank Management Analytics System** built using **PostgreSQL** as the backend database and **Power BI** for interactive dashboards.
